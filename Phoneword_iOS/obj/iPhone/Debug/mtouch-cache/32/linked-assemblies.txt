@@ -1,0 +1,4 @@
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Phoneword_iOS.exe
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll

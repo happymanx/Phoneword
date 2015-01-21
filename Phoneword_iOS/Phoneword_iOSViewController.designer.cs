@@ -20,6 +20,10 @@ namespace Phoneword_iOS
 
 		[Outlet]
 		[GeneratedCode ("iOS Designer", "1.0")]
+		UIButton CallHistoryButton { get; set; }
+
+		[Outlet]
+		[GeneratedCode ("iOS Designer", "1.0")]
 		UILabel PhoneNumberLabel { get; set; }
 
 		[Outlet]
@@ -35,6 +39,10 @@ namespace Phoneword_iOS
 			if (CallButton != null) {
 				CallButton.Dispose ();
 				CallButton = null;
+			}
+			if (CallHistoryButton != null) {
+				CallHistoryButton.Dispose ();
+				CallHistoryButton = null;
 			}
 			if (PhoneNumberLabel != null) {
 				PhoneNumberLabel.Dispose ();

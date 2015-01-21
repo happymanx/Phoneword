@@ -1,0 +1,17 @@
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-37.nib
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/Default-568h@2x.png
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/Default.png
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/Default@2x.png
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/Logo/Logo.png
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/bin/iPhone/Debug/Phoneword_iOS.exe.mdb
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/bin/iPhone/Debug/Phoneword_iOS.exe
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/Phoneword_iOS.exe
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/Phoneword_iOS.exe.mdb
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/183-view-184.nib
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-183.nib
+/Users/jason/Xamarin/Phoneword/Phoneword_iOS/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/CallHistoryController.nib
